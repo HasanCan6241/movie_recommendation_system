@@ -13,3 +13,5 @@ Daha sonra, Streamlit kütüphanesi kullanılarak bu öneri sistemi bir arayüze
 - Scikit-learn
 - Streamlit
 - Countvectorizer
+## Arayüz
+![Arayğz](İmages/film_öneri.png)
