@@ -14,4 +14,4 @@ Daha sonra, Streamlit kütüphanesi kullanılarak bu öneri sistemi bir arayüze
 - Streamlit
 - Countvectorizer
 ## Arayüz
-![Arayğz](İmages/film_öneri.png)
+![Arayüz](İmages/film_öneri.png)
